@@ -281,9 +281,7 @@ Contributions are welcome! To keep collaboration smooth:
 
 ---
 
-## License
 
-Add a project license (e.g., MIT) if this repository will be shared publicly.
 
 ---
 
@@ -291,3 +289,4 @@ Add a project license (e.g., MIT) if this repository will be shared publicly.
 
 - IBM HR Analytics Employee Attrition dataset (source used in this repository).
 - Open-source Python ecosystem (`scikit-learn`, `streamlit`, `shap`, and others) powering the workflow.
+
